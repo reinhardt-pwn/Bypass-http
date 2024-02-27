@@ -34,20 +34,24 @@ Add the default headers in the default_headers.txt like this:
 
 ### What this tool does
 This tool test multiple 403 and 401 bypass tricks in this order (form most to less common exploits):
+```
   Testing all HTTP methods
   Path fuzzing
   Downgrade protocol version
   Headers fuzzing
   User-Agent fuzzing
+```
 
 If you want to learn more about these tricks, see this article: https://blog.vidocsecurity.com/blog/401-and-403-bypass-how-to-do-it-right/
 
 ### Custom
 If you want to custom the different tests of this tool, you can change the .txt files in lists/
+```
   agent.txt -> different User-Agent tested
   headers.txt -> differents headers tested
   headers_value.txt -> differents values for the previous headers
   path.txt -> differents paths tested to bypass, 'admin' is replaced by the real path during the tests
+```
 
 ## In the future
 ### Adding features
