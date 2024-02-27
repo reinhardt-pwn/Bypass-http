@@ -10,6 +10,7 @@ I will soon write an article about this tool to help you understand how it works
 
 ## Guide
 ### Usage
+```
 Usage: bypass_http.py [-h] -i I -a A [-p P] [-v V] [-m M] [-s S]
 Arguments:
   -h, --help  show this help message and exit
@@ -19,9 +20,9 @@ Arguments:
   -v V        VERSION of the target protocol, HTTPS/2.0 by default
   -m M        METHOD of the inital error, GET by default
   -s S        SECONDS between each request sent, 1 by default
-
+```
 Add the default headers in the default_headers.txt like this:
-  header: value
+  - header: value
 
 ### What this tool does
 This tool test multiple 403 and 401 bypass tricks in this order (form most to less common exploits):
