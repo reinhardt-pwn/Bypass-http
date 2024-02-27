@@ -1,5 +1,5 @@
 # Bypass-http
-Automatized tool to bypass 403 and 401 HTTP status.
+Automatized tool to bypass 403 and 401 HTTP status, created by Reinhardt (@Reinhardt_pwn).
 
 ## 🚨 Attention Users:
 This repository contains a tool designed for educational purposes only ans is intended solely for testing, learning, and demonstrating cybersecurity practices.
