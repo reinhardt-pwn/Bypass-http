@@ -6,7 +6,7 @@ This repository contains a tool designed for educational purposes only ans is in
 Don't use this code and knowledge to attack / pentest unauthorized targets.
 
 ## Usage article
-I will soon write an article about this tool to help you understand how it works, with real examples.
+Here is a link to a medium article about how to use this tool, with a detailled example : https://medium.com/@reinhardt.pwn/hackthebox-challenge-write-up-no-threshold-299de9b27da1
 
 ## Guide
 ### Usage
