@@ -6,7 +6,7 @@ This repository contains a tool designed for educational purposes only ans is in
 Don't use this code and knowledge to attack / pentest unauthorized targets.
 
 ## Usage article
-Here is a link to a medium article about how to use this tool, with a detailled example : https://medium.com/@reinhardt.pwn/hackthebox-challenge-write-up-no-threshold-299de9b27da1
+Here is a link to a medium article about how to use this tool, with a detailled example : https://medium.com/@reinhardt.pwn/tool-guide-bypass-http-a-python-tool-to-find-403-401-bypass-b46ff0bd6978
 
 ## Guide
 ### Usage
